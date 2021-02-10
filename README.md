@@ -1,3 +1,3 @@
 memulai project
 -npm install
--nom run dev
+-npm run dev
